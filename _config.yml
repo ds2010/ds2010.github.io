@@ -1,0 +1,16 @@
+title: Sheng Dai's Webpage
+email:
+description: > # this means to ignore newlines until "baseurl:"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ds2010.github.io"
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle
+
+timezone: European/Helsinki

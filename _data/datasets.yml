@@ -1,0 +1,22 @@
+datasets:
+  - title: A Python Package for Convex Regression and Frontier Estimation (pyStoNED)
+    links:
+      repo: https://github.com/ds2010/pyStoNED
+      doc: https://pystoned.readthedocs.io
+    description: >
+      <a href="https://github.com/ds2010/pyStoNED">pyStoNED</a> is a Python package that provides functions for estimating Convex Nonparametric Least Square (CNLS), 
+      Stochastic Nonparametric Envelopment of Data (StoNED), and other various StoNED-related variants such as 
+      Convex Quantile Regression (CQR), Convex Expectile Regression (CER), and Isotonic CNLS (ICNLS). 
+      It also provides efficiency measurement using Data Envelopement Analysis (DEA) and Free Disposal Hull (FDH). 
+      The pyStoNED package allows the user to estimate the CNLS/StoNED frontiers in an open-access 
+      environment and is built based on the <a href="http://www.pyomo.org/">Pyomo</a>.
+
+  - title: CNLS-CVXOPT
+    links:
+      repo: https://github.com/ds2010/CNLS-Python
+      doc: https://nbviewer.org/github/ds2010/CNLS-Python/blob/master/CNLS-tutorials/CNLS-VRS.ipynb
+    description: >
+      Along with the development of the <a href="https://github.com/ds2010/pyStoNED">pyStoNED</a> package, 
+      we recognize that we can reformulate the CNLS problem and use other Python packages, e.g., CVXOPT,
+      to solve it. More discussions can be seen from <a href="https://nbviewer.org/github/ds2010/CNLS-Python/blob/master/CNLS-tutorials/CNLS-reformulation.ipynb">CNLS-reformulation</a>.
+      Thus, this project provides some basic functions (e.g., CNLS_CRS and CNLS_VRS) and a tutorial to help users recode the CNLS in Python.

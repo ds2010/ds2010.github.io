@@ -1,0 +1,35 @@
+---
+layout: default
+active: publications
+opengraph:
+  title: Sheng Dai's publications
+---
+
+<div class="container">
+  <p>See also: <a href="https://scholar.google.com/citations?user=mnVXUI4AAAAJ&hl">Google scholar</a></p>
+
+  <section>
+    <h2>Publications</h2>
+    <ol reversed start="7">
+    {% for paper in site.data.papers.papers %}
+      <li>{% if paper.link %}<a href="{{ paper.link }}">{{ paper.title }}.</a> {% else %} {{ paper.title }}. {% endif %}
+          {% if paper.authors %} {{ paper.authors }}. {% endif %}
+          {% if paper.publisher %} <span style="font-style: italic; font-weight: bold">{{ paper.publisher }},</span> {% endif %}
+          {% if paper.year %} {{ paper.year }}. {% endif %}
+          {% if paper.abstract %} <details> <summary> Abstract </summary> {{ paper.abstract }} </details> {% endif %}</li>
+    {% endfor %}
+    </ol>
+  </section>
+  <section>
+    <h2>Preprint</h2>
+    <ol reversed start="4">
+    {% for paper in site.data.papers.preprint %}
+      <li>{% if paper.link %}<a href="{{ paper.link }}">{{ paper.title }}</a> {% else %} {{ paper.title }} {% endif %}
+          {% if paper.authors %} {{ paper.authors }}. {% endif %}
+          {% if paper.publisher %} <span style="font-style: italic; font-weight: bold">{{ paper.publisher }},</span> {% endif %}
+          {% if paper.year %} {{ paper.year }}. {% endif %}
+          {% if paper.abstract %} <details> <summary> Abstract </summary> {{ paper.abstract }} </details> {% endif %}</li>
+    {% endfor %}
+    </ol>
+</section>
+</div>

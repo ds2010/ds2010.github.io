@@ -1,0 +1,171 @@
+papers:
+  - title: "Production quota policy in China: Implications for sustainable supply capacity of critical minerals"
+    link: https://www.sciencedirect.com/science/article/abs/pii/S0301420721000635
+    authors: Jiahui Yi, Sheng Dai, Jinhua Cheng, Qiaosheng Wu, Kailei Liu
+    publisher: Resources Policy
+    year: 2021
+    abstract: Effective evaluation facilitates the implementation of production quota policy and establishment 
+              of future policy directions. However, reliable evaluations of the long-term impacts of production quota 
+              policies on critical minerals remain scant. In this study, we first derive hypotheses about the production 
+              quota policy and sustainable supply capacity of critical minerals. Based on the theoretical analysis, 
+              we apply the generalized synthetic control method to a balanced panel of critical minerals for the years 1999–2017 
+              to analyze the average policy effect and the effects for different minerals. Subsequently, we explain why the policy
+              lacks lasting effects on the economic performance. Our main findings are that the effects of the production quota
+              policy that are not obvious in the initial stage become significant at a later stage and that implementing the policy 
+              effectively can lower the supply disruption risk. With policy implementation and an increase in supervision intensity,
+              the production quota policy has a positive impact on improving the sustainable supply capacity for critical minerals
+              but a negative effect on profitability, thereby causing a horizontal change or even decline in the policy effects in
+              the long term. Policy implications are proposed to enhance the sustainable supply capacity of critical minerals for 
+              China and other countries seeking supply security.
+
+  - title: "Forward-looking assessment of the GHG abatement cost: Application to China"
+    link: https://www.sciencedirect.com/science/article/pii/S0140988320300979
+    authors: Sheng Dai, Timo Kuosmanen, Xun Zhou
+    publisher: Energy Economics
+    year: 2020
+    abstract: Evaluation of abatement costs is critical in setting reduction goals and devising climate policy. 
+              However, reliable forward-looking assessment of the short-term effects of climate policy remains a major challenge. 
+              Using panel data of 30 Chinese provinces during 1997–2015, we first estimate the marginal CO2 abatement costs using 
+              a novel data-driven approach, convex quantile regression. Based on the marginal abatement cost estimates and China's 
+              plans regarding carbon intensity reduction and economic growth, we present a forward-looking assessment of the abatement 
+              costs for Chinese provinces for 2016–2020. Our main finding is that all the Chinese provinces have a negative abatement 
+              cost, which means these provinces can benefit from an increase in the absolute level of CO2 emissions despite the constraint
+              on carbon intensity. The magnitudes of economic benefits exhibit a significant regional disparity because some provinces 
+              can increase more CO2 emissions than others. However, there is still costly carbon intensity abatement relative to a 
+              counterfactual where the provinces meet their economic growth targets but in the absence of the intensity reduction 
+              constraints. Policy implications have been proposed to enhance the efficiency and fairness of climate policy in China.
+
+  - title: "How much climate policy has cost for OECD countries?"
+    link: https://www.sciencedirect.com/science/article/abs/pii/S0305750X19303298
+    authors: Timo Kuosmanen, Xun Zhou, Sheng Dai
+    publisher: World Development
+    year: 2020
+    abstract: High economic cost of climate policy has attracted critical debate since the Kyoto Protocol. 
+              However, reliable empirical evidence of the abatement cost of green-house gases across countries remains scant.
+              In this study we estimate the average yearly green-house gas abatement costs per capita for a panel of 28 OECD
+              countries in years 1990–2015. The marginal abatement costs are estimated using a novel data-driven approach
+              based on convex quantile regression. Compared to traditional frontier estimation methods, the quantile 
+              approach takes into account a broader set of abatement options and is more robust to inefficiency, noise,
+              and heteroscedasticity in empirical data. The comparison of OECD countries shows that the actual 
+              abatement cost per capita has been very modest, much lower than predicted in the late 1990s. This 
+              result has profound policy implications, calling for more ambitious climate change mitigation strategy in the future.
+   
+  - title: "Can low-carbon city construction facilitate green growth? Evidence from China's pilot low-carbon city initiative"
+    link: https://www.sciencedirect.com/science/article/abs/pii/S0959652619318633
+    authors: Jinhua Cheng, Jiahui Yi, Sheng Dai, Yan Xiong
+    publisher: Journal of Cleaner Production
+    year: 2019
+    abstract: Faced with the predicament of sustainable development in traditional cities, the low-carbon city, 
+              as a novel urban development mode, provides a feasible idea for resolving the tensions among urban development, 
+              resource conservation and environmental protection. Using prefecture-level panel data during 2007–2016, we adopt 
+              the difference-in-differences model to explore the impact of low-carbon city construction on green growth. Afterward, 
+              we estimate the heterogeneity of economic-environmental effects on cities, and those effects are attributed to different 
+              scales and locations. The robustness tests reveal that low-carbon pilot cities significantly and continuously benefit 
+              in terms of the green total factor productivity through technical effects being partly transformed into green technical
+              progress and structural effects. Additionally, the construction of low-carbon cities has scale economy and regional 
+              differences. Cities with larger scales, more complete infrastructure and better foundations for technology have more
+              significantly positive effects on green growth. These findings also apply to cities in similar developing countries 
+              seeking to achieve economic transformation and green growth.
+
+  - title: "Geography, ethnicity and regional inequality in Guangxi Zhuang autonomous region, China"
+    link: https://link.springer.com/article/10.1007/s12061-017-9229-3
+    authors: Qiwen Dai, Xinyue Ye, Yehua Dennis Wei, Yuemin Ning, Sheng Dai
+    publisher: Applied Spatial Analysis and Policy
+    year: 2018
+    abstract: This paper analyzes regional inequality in Western China through a case study of Guangxi 
+              Zhuang Autonomous Region from 1989 to 2012. We have found a recent trend of increasing county-level inequality, 
+              in which the distribution of regional inequality has changed from a single peak to a bimodal pattern. 
+              Based on the multi-mechanism framework, we have revealed that geographic environment and ethnic characteristics 
+              have had a large impact on the economic development of Guangxi. Spatiality, investment and industrialization play
+              an additional important role in regional development; meanwhile, globalization and decentralization play a minor role. 
+              Building on the semiparametric geoadditive models, our investigation detects nonlinear relationships between geography, 
+              ethnicity and local development. We then assess the relative performance of infrastructure and market potential
+              to control for unobserved spatial heterogeneity.
+
+  - title: "Regional eco-innovation in China: An analysis of eco-innovation levels and influencing factors"
+    link: https://www.sciencedirect.com/science/article/abs/pii/S0959652617305796
+    authors: Jun Chen, Jinhua Cheng, Sheng Dai
+    publisher: Journal of Cleaner Production
+    year: 2017
+    abstract: Eco-innovation has become a core engine for long-term stable economic development, 
+              as well as a fundamental way to ease the tension between economic growth and environmental 
+              resources management. Through the construction of a measurement index system, this paper 
+              evaluates the level of regional eco-innovation in 30 Chinese provinces from 2000 to 2014. 
+              This paper also employs panel data analysis to study the factors that influence Chinese regional eco-innovation. 
+              The results show that, during the observation period, the levels of eco-innovation increased significantly overall. 
+              However, the regional comparison of the eco-innovation index revealed an obvious, gradually decreasing distribution 
+              pattern from east to west. Factors such as technology push, market pull, and environmental regulation pull
+              have positive but differentiated influences on the eco-innovation throughout China and among the eastern, 
+              central and western regions. Based on these heterogeneous influences and the targets of ecological civilization construction, 
+              promoting the regional synergy of technology push, market pull, and environmental regulation pull is 
+              necessary to improve the level of eco-innovation in China.
+  
+  - title: "Spatiotemporal heterogeneity of industrial pollution in China"
+    link: https://www.sciencedirect.com/science/article/abs/pii/S1043951X16300724
+    authors: Jinhua Cheng, Sheng Dai, Xinyue Ye
+    publisher: China Economic Review
+    year: 2016
+    abstract: Due to the lack of effective institutional constraints, the negative externality 
+              from industrial production will lead to environmental pollution and spatial spillover on neighboring units.
+              Because the self-purification capacity of the environmental system is limited, a strong time effect is witnessed. 
+              Time lag and spatial spillover need to be considered to mitigate the effect of industrial pollution. 
+              Using geographically weighted regression (GWR) and geographically and temporally weighted regression (GTWR), 
+              this paper decomposes the spatiotemporal heterogeneity of industrial pollution in China. Results show a significant 
+              spatio-temporality in the evolution of the provincial-level industrial pollution since 2007. As the major participants, 
+              state-owned enterprises play a leading role in the state economy and greatly affect pollutant emissions. In the central
+              and eastern regions, an increasing proportion of state-owned output values is related to the decrease of industrial 
+              pollution emissions, whereas western regions witness an opposite trend. Emissions charge plays a positive role in curbing 
+              the emission from industrial enterprises in the central and western regions. A better understanding of the spatiotemporal 
+              heterogeneity of industrial pollution is the prerequisite in the alleviation of industrial pollutions to achieve a sustainable economic growth.
+
+
+preprint:
+  - title: "pyStoNED: A Python package for convex regression and frontier estimation"
+    link: https://arxiv.org/abs/2109.12962
+    authors: Sheng Dai, Yu-Hsueh Fang, Chia-Yen Lee, Timo Kuosmanen
+    publisher: arXiv:2109.12962
+    year: Sep 2021
+    abstract: Shape-constrained nonparametric regression is a growing area in econometrics, statistics, 
+              operations research, machine learning and related fields. In the field of productivity and efficiency analysis, 
+              recent developments in the multivariate convex regression and related techniques such as convex quantile 
+              regression and convex expectile regression have bridged the long-standing gap between the conventional 
+              deterministic-nonparametric and stochastic-parametric methods. Unfortunately, the heavy computational
+              burden and the lack of powerful, reliable, and fully open access computational package has slowed down
+              the diffusion of these advanced estimation techniques to the empirical practice. The purpose of the 
+              Python package pyStoNED is to address this challenge by providing a freely available and user-friendly
+              tool for the multivariate convex regression, convex quantile regression, convex expectile regression, 
+              isotonic regression, stochastic nonparametric envelopment of data, and related methods. This paper 
+              presents a tutorial of the pyStoNED package and illustrates its application, focusing on the estimation 
+              of frontier cost and production functions.
+
+  - title: "Variable selection in convex quantile regression: L1-norm or L0-norm regularization?"
+    link: https://arxiv.org/abs/2107.03119
+    authors: Sheng Dai
+    publisher: arXiv:2107.03119
+    year: Jul 2021
+    abstract: The curse of dimensionality is a recognized challenge in nonparametric estimation. 
+              This paper develops a new L0-norm regularization approach to the convex quantile and expectile regressions
+              for subset variable selection. We show how to use mixed integer programming to solve the proposed L0-norm
+              regularization approach in practice and build a link to the commonly used L1-norm regularization approach. 
+              A Monte Carlo study is performed to compare the finite sample performances of the proposed L0-penalized 
+              convex quantile and expectile regression approaches with the L1-norm regularization approaches. 
+              The proposed approach is further applied to benchmark the sustainable development performance of 
+              the OECD countries and empirically analyze the accuracy in the dimensionality reduction of variables. 
+              The results from the simulation and application illustrate that the proposed L0-norm regularization 
+              approach can more effectively address the curse of dimensionality than the L1-norm regularization 
+              approach in multidimensional spaces.
+  
+  - title: "Performance of English NHS hospitals during the first and second waves of the COVID-19 pandemic"
+    link: https://www.researchgate.net/publication/349075148
+    authors: Timo Kuosmanen, Aaron Tan, Sheng Dai
+    publisher: ResearchGate
+    year: Feb 2021
+    abstract: 
+
+  - title: "Production function of death: Performance assessment of the English NHS hospitals during the first wave of the COVID-19 pandemic"
+    link: https://www.researchgate.net/publication/345808278
+    authors: Timo Kuosmanen, Aaron Tan, Sheng Dai
+    publisher: ResearchGate
+    year: Dec 2020
+    abstract:
+  

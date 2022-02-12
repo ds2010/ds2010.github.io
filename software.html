@@ -1,0 +1,21 @@
+---
+layout: default
+active: Software
+opengraph:
+  title: Sheng Dai's Software
+---
+
+<div class="container">
+  <section>
+    <h2>Software</h2>
+    <p>We have recently developed several powerful packages to support the convex regression and frontier estimation. Reach out if you have any questions!</p>
+    {% for dataset in site.data.datasets.datasets %}
+      <div class="container dataset">
+        <h4>{{ dataset.title }}</h4>
+        <p><a href="{{ dataset.links.repo }}">Github repo</a></p>
+        <p><a href="{{ dataset.links.doc }}">Documentation</a></p>
+        <p><strong>Description</strong>: {{ dataset.description }}</p>
+      </div>
+    {% endfor %}
+  </section>
+</div>
