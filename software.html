@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Social media markup -->
+    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/1527442?s=400&v=4">
+    <meta property="og:site_name" content="Kevin H. Wilson">
+    <meta property="og:type" content="object">
+    <meta property="og:title" content="Sheng Dai's Software">
+    <meta property="og:url" content="https://ds2010.github.io/software.html">
+    <meta name="twitter:creator" content="@khayeswilson">
+
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+    <title>Sheng Dai's Webpage</title>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88197802-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-88197802-3');
+    </script>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- Fonts -->
+    <link href="css/lato100.css" rel="stylesheet">
+    <link href="css/lato300.css" rel="stylesheet" type="text/css">
+    <link href="css/lato400.css" rel="stylesheet" type="text/css">
+    <link href="css/lato700.css" rel="stylesheet" type="text/css">
+
+    <link href="css/custom.css" rel="stylesheet">
+  </head>
+  <body>
+<div class="container ">
+
+<div class="container">
+<nav class="navbar navbar-expand-lg navbar-light">
+<button class="navbar-toggler custom-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="if-collapsed">Menu</span>
+    <span class="if-not-collapsed">Close</span>
+  </button>
+
+  <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">Home </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="publications.html">Publications </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="cv.pdf">CV </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="software.html">Software </a>
+      </li>
+    </ul>
+  </div>
+</nav>
+</div>
+
+
+<div class="container">
+  <h1 class="justify-content-center">Sheng Dai</div>
+</div>
+
+<div class="container">
+  <section>
+    <h2>Software</h2>
+    <p>We have recently developed several powerful packages to support the convex regression and frontier estimation. Reach out if you have any questions!</p>
+    
+      <div class="container dataset">
+        <h4>A Python Package for Convex Regression and Frontier Estimation (pyStoNED)</h4>
+        <p><a href="https://github.com/ds2010/pyStoNED">Github repo</a></p>
+        <p><a href="https://pystoned.readthedocs.io">Documentation</a></p>
+        <p><strong>Description</strong>: <a href="https://github.com/ds2010/pyStoNED">pyStoNED</a> is a Python package that provides functions for estimating Convex Nonparametric Least Square (CNLS),  Stochastic Nonparametric Envelopment of Data (StoNED), and other various StoNED-related variants such as  Convex Quantile Regression (CQR), Convex Expectile Regression (CER), and Isotonic CNLS (ICNLS).  It also provides efficiency measurement using Data Envelopement Analysis (DEA) and Free Disposal Hull (FDH).  The pyStoNED package allows the user to estimate the CNLS/StoNED frontiers in an open-access  environment and is built based on the <a href="http://www.pyomo.org/">Pyomo</a>.
+</p>
+      </div>
+    
+      <div class="container dataset">
+        <h4>CNLS-CVXOPT</h4>
+        <p><a href="https://github.com/ds2010/CNLS-Python">Github repo</a></p>
+        <p><a href="https://nbviewer.org/github/ds2010/CNLS-Python/blob/master/CNLS-tutorials/CNLS-VRS.ipynb">Documentation</a></p>
+        <p><strong>Description</strong>: Along with the development of the <a href="https://github.com/ds2010/pyStoNED">pyStoNED</a> package,  we recognize that we can reformulate the CNLS problem and use other Python packages, e.g., CVXOPT, to solve it. More discussions can be seen from <a href="https://nbviewer.org/github/ds2010/CNLS-Python/blob/master/CNLS-tutorials/CNLS-reformulation.ipynb">CNLS-reformulation</a>. Thus, this project provides some basic functions (e.g., CNLS_CRS and CNLS_VRS) and a tutorial to help users recode the CNLS in Python.
+</p>
+      </div>
+    
+  </section>
+</div>
+
+
+</div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
