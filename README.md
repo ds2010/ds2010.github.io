@@ -1,4 +1,4 @@
-My homepage: http://ds2010.github.io/
+My homepage: https://ds2010.github.io/
 
 Start it locally with:
 ```bash
