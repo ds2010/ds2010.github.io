@@ -1,6 +1,6 @@
 My homepage: http://ds2010.github.io/
 
-Start it locally using:
+Start it locally with:
 ```bash
 $ bundle exec jekyll serve
 ```
