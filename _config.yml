@@ -3,7 +3,7 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ds2010.github.io"
+url: "https://daisheng.io"
 
 # Build settings
 markdown: kramdown
