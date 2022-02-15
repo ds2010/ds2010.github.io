@@ -1,4 +1,4 @@
-My homepage: www.daisheng.io
+My homepage: [daisheng.io](//www.daisheng.io)
 
 Start it locally with:
 ```bash
