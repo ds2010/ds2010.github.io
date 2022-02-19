@@ -13,4 +13,4 @@ exclude:
   - Gemfile.lock
   - vendor/bundle
 
-timezone: European/Helsinki
+timezone: Europe/Helsinki
