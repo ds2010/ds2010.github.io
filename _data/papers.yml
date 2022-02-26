@@ -8,7 +8,7 @@ papers:
               of future policy directions. However, reliable evaluations of the long-term impacts of production quota 
               policies on critical minerals remain scant. In this study, we first derive hypotheses about the production 
               quota policy and sustainable supply capacity of critical minerals. Based on the theoretical analysis, 
-              we apply the generalized synthetic control method to a balanced panel of critical minerals for the years 1999–2017 
+              we apply the generalized synthetic control method to a balanced panel of critical minerals for the years 1999-2017 
               to analyze the average policy effect and the effects for different minerals. Subsequently, we explain why the policy
               lacks lasting effects on the economic performance. Our main findings are that the effects of the production quota
               policy that are not obvious in the initial stage become significant at a later stage and that implementing the policy 
@@ -23,12 +23,14 @@ papers:
     authors: Sheng Dai, Timo Kuosmanen, Xun Zhou
     publisher: Energy Economics
     year: 2020
+    slides: "[Slides]"
+    slideslink: https://www.researchgate.net/publication/342164669_Forward-looking_assessment_of_the_GHG_abatement_cost_Application_to_China
     abstract: Evaluation of abatement costs is critical in setting reduction goals and devising climate policy. 
               However, reliable forward-looking assessment of the short-term effects of climate policy remains a major challenge. 
-              Using panel data of 30 Chinese provinces during 1997–2015, we first estimate the marginal CO2 abatement costs using 
+              Using panel data of 30 Chinese provinces during 1997-2015, we first estimate the marginal CO2 abatement costs using 
               a novel data-driven approach, convex quantile regression. Based on the marginal abatement cost estimates and China's 
               plans regarding carbon intensity reduction and economic growth, we present a forward-looking assessment of the abatement 
-              costs for Chinese provinces for 2016–2020. Our main finding is that all the Chinese provinces have a negative abatement 
+              costs for Chinese provinces for 2016-2020. Our main finding is that all the Chinese provinces have a negative abatement 
               cost, which means these provinces can benefit from an increase in the absolute level of CO2 emissions despite the constraint
               on carbon intensity. The magnitudes of economic benefits exhibit a significant regional disparity because some provinces 
               can increase more CO2 emissions than others. However, there is still costly carbon intensity abatement relative to a 
@@ -40,10 +42,12 @@ papers:
     authors: Timo Kuosmanen, Xun Zhou, Sheng Dai
     publisher: World Development
     year: 2020
+    slides: "[Slides]"
+    slideslink: https://www.researchgate.net/publication/337486948_How_much_climate_policy_has_cost_for_OECD_countries
     abstract: High economic cost of climate policy has attracted critical debate since the Kyoto Protocol. 
               However, reliable empirical evidence of the abatement cost of green-house gases across countries remains scant.
               In this study we estimate the average yearly green-house gas abatement costs per capita for a panel of 28 OECD
-              countries in years 1990–2015. The marginal abatement costs are estimated using a novel data-driven approach
+              countries in years 1990-2015. The marginal abatement costs are estimated using a novel data-driven approach
               based on convex quantile regression. Compared to traditional frontier estimation methods, the quantile 
               approach takes into account a broader set of abatement options and is more robust to inefficiency, noise,
               and heteroscedasticity in empirical data. The comparison of OECD countries shows that the actual 
@@ -57,7 +61,7 @@ papers:
     year: 2019
     abstract: Faced with the predicament of sustainable development in traditional cities, the low-carbon city, 
               as a novel urban development mode, provides a feasible idea for resolving the tensions among urban development, 
-              resource conservation and environmental protection. Using prefecture-level panel data during 2007–2016, we adopt 
+              resource conservation and environmental protection. Using prefecture-level panel data during 2007-2016, we adopt 
               the difference-in-differences model to explore the impact of low-carbon city construction on green growth. Afterward, 
               we estimate the heterogeneity of economic-environmental effects on cities, and those effects are attributed to different 
               scales and locations. The robustness tests reveal that low-carbon pilot cities significantly and continuously benefit 
@@ -124,7 +128,9 @@ preprint:
     link: https://arxiv.org/abs/2109.12962
     authors: Sheng Dai, Yu-Hsueh Fang, Chia-Yen Lee, Timo Kuosmanen
     publisher: arXiv:2109.12962
-    year: Sep 2021
+    year: Sep 2021    
+    slides: "[Slides]"
+    slideslink: https://www.researchgate.net/publication/354777651_pyStoNED_A_Python_package_for_convex_regression_and_frontier_estimation
     abstract: Shape-constrained nonparametric regression is a growing area in econometrics, statistics, 
               operations research, machine learning and related fields. In the field of productivity and efficiency analysis, 
               recent developments in the multivariate convex regression and related techniques such as convex quantile 
