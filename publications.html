@@ -16,8 +16,7 @@ opengraph:
           {% if paper.authors %} {{ paper.authors }}. {% endif %}
           {% if paper.publisher %} <span style="font-style: italic; font-weight: bold">{{ paper.publisher }},</span> {% endif %}
           {% if paper.year %} {{ paper.year }}. {% endif %}
-          {% if paper.slideslink %}<a href="{{ paper.slideslink }}">{{ paper.slides }}</a> {% else %} {{ paper.slides }} {% endif %}
-          {% if paper.abstract %} <details> <summary> Abstract </summary> {{ paper.abstract }} </details> {% endif %}</li>
+          {% if paper.slideslink %}<a href="{{ paper.slideslink }}">{{ paper.slides }}</a> {% else %} {{ paper.slides }} {% endif %}</li>
     {% endfor %}
     </ol>
   </section>
@@ -29,8 +28,7 @@ opengraph:
           {% if paper.authors %} {{ paper.authors }}. {% endif %}
           {% if paper.publisher %} <span style="font-style: italic; font-weight: bold">{{ paper.publisher }},</span> {% endif %}
           {% if paper.year %} {{ paper.year }}. {% endif %}
-          {% if paper.slideslink %}<a href="{{ paper.slideslink }}">{{ paper.slides }}</a> {% else %} {{ paper.slides }} {% endif %}
-          {% if paper.abstract %} <details> <summary> Abstract </summary> {{ paper.abstract }} </details> {% endif %}</li>
+          {% if paper.slideslink %}<a href="{{ paper.slideslink }}">{{ paper.slides }}</a> {% else %} {{ paper.slides }} {% endif %}</li>
     {% endfor %}
     </ol>
 </section>
