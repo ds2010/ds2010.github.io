@@ -46,6 +46,12 @@ papers:
     year: 2016
 
 preprint:
+  - title: "Non-crossing convex quantile regression"
+    link: https://arxiv.org/abs/2204.01371
+    authors: Sheng Dai, Timo Kuosmanen, Xun Zhou
+    publisher: arXiv:2204.01371
+    year: April 2022    
+
   - title: "pyStoNED: A Python package for convex regression and frontier estimation"
     link: https://arxiv.org/abs/2109.12962
     authors: Sheng Dai, Yu-Hsueh Fang, Chia-Yen Lee, Timo Kuosmanen
