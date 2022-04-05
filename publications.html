@@ -22,7 +22,7 @@ opengraph:
   </section>
   <section>
     <h2>Preprint</h2>
-    <ol reversed start="4">
+    <ol reversed start="5">
     {% for paper in site.data.papers.preprint %}
       <li>{% if paper.link %}<a href="{{ paper.link }}">{{ paper.title }}</a> {% else %} {{ paper.title }} {% endif %}
           {% if paper.authors %} {{ paper.authors }}. {% endif %}
