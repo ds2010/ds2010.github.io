@@ -10,7 +10,7 @@ opengraph:
 
   <section>
     <h2>Publications</h2>
-    <ol reversed start="7">
+    <ol reversed start="8">
     {% for paper in site.data.papers.papers %}
       <li>{% if paper.link %}<a href="{{ paper.link }}">{{ paper.title }}.</a> {% else %} {{ paper.title }}. {% endif %}
           {% if paper.authors %} {{ paper.authors }}. {% endif %}

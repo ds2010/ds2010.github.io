@@ -1,4 +1,10 @@
 papers:
+    - title: "Variable selection in convex quantile regression: L1-norm or L0-norm regularization?"
+    link: https://www.sciencedirect.com/science/article/pii/S0377221722004313
+    authors: Sheng Dai
+    publisher: European Journal of Operational Research
+    year: May 2022
+
   - title: "Production quota policy in China: Implications for sustainable supply capacity of critical minerals"
     link: https://www.sciencedirect.com/science/article/abs/pii/S0301420721000635
     authors: Jiahui Yi, Sheng Dai, Jinhua Cheng, Qiaosheng Wu, Kailei Liu
@@ -46,6 +52,12 @@ papers:
     year: 2016
 
 preprint:
+  - title: "Partial frontiers are not quantiles"
+    link: https://arxiv.org/abs/2205.11885
+    authors: Sheng Dai, Timo Kuosmanen, Xun Zhou
+    publisher: arXiv:2205.11885
+    year: May 2022    
+
   - title: "Non-crossing convex quantile regression"
     link: https://arxiv.org/abs/2204.01371
     authors: Sheng Dai, Timo Kuosmanen, Xun Zhou
@@ -59,12 +71,6 @@ preprint:
     year: Sep 2021    
     slides: "[Slides]"
     slideslink: https://www.researchgate.net/publication/354777651_pyStoNED_A_Python_package_for_convex_regression_and_frontier_estimation
-
-  - title: "Variable selection in convex quantile regression: L1-norm or L0-norm regularization?"
-    link: https://arxiv.org/abs/2107.03119
-    authors: Sheng Dai
-    publisher: arXiv:2107.03119
-    year: Jul 2021
 
   - title: "Performance of English NHS hospitals during the first and second waves of the COVID-19 pandemic"
     link: https://www.researchgate.net/publication/349075148
