@@ -1,5 +1,5 @@
 papers:
-    - title: "Variable selection in convex quantile regression: L1-norm or L0-norm regularization?"
+  - title: "Variable selection in convex quantile regression: L1-norm or L0-norm regularization?"
     link: https://www.sciencedirect.com/science/article/pii/S0377221722004313
     authors: Sheng Dai
     publisher: European Journal of Operational Research
